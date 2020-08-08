@@ -2,7 +2,6 @@
 using namespace std;
 #define fastio() ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0)
 #define pb  push_back
-#define show(x) cerr<<(#x)<<" : "<<x<<endl;
 #define ll  long long
 #define ld  long double
 #define fill(a,val) memset(a,val,sizeof(a))
