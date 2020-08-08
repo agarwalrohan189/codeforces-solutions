@@ -33,7 +33,7 @@ int main(){
 			hash[a[i]]++;
 		}
 		int v=0;
-		while(x){
+		while(x){ 
 			v++;
 			if(hash[v]!=0)
 				continue;
