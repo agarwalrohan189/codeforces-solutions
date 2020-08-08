@@ -23,7 +23,7 @@ ll power(ll x,ll y,ll p){ll res=1;x%=p;while(y>0){if(y&1)res=(res*x)%p;y=y>>1;x=
 bool comp(double a,double b){
 	return a>b;
 }
- 
+  
 int main(){
 	fastio();
 	int t;
